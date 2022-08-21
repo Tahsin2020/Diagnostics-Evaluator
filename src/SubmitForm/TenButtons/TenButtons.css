@@ -1,0 +1,7 @@
+.Buttons{
+    width:100px;
+    height:100px;
+    margin:10px;
+    border-radius: 50%;
+    background: var(--highlight_color);
+}
