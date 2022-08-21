@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Diagnostics-Evaluator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can use this, just input your own firebase api key into the app.js file in the src folder. 
+It is currently empty for your use. Below is information about starting it up and testing it.
 
 ## Available Scripts
 
