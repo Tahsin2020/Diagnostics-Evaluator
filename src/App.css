@@ -30,3 +30,22 @@ td {
   margin-top:50px;
   margin-bottom:50px;
 }
+
+#Width{
+  margin:0%;
+  margin-left:2%;
+  margin-bottom: 1%;
+  width:200px;
+}
+.Consent{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.Form{
+  margin: auto;
+  margin-top:5%;
+  width:60%;
+  padding-bottom: 5%;
+  height:80%
+}
