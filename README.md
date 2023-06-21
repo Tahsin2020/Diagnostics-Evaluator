@@ -6,6 +6,8 @@ You can use this app for your own use! Just input your own firebase api key into
 
 The api Key is currently empty for your use. Below is information about starting up and testing this website. Please do your own pull requests!
 
+![image](https://github.com/Tahsin2020/Diagnostics-Evaluator/assets/62449141/1e211eb7-6a4b-46d1-8081-5a5f6953bc84)
+
 ## Available Scripts
 
 In the project directory, you can run:
