@@ -1,6 +1,6 @@
 # Diagnostics-Evaluator App
 
-This is my Diagnostics app implemented using Firebase and React, it tracks your wellbeing over the day based on the entries you put into it, and allows you to see where and when you are the most productive. Furthermore, you can use it as a record of your life if keeping up a diary is too difficult. In the future we will add additional functions.
+This is my Diagnostics app implemented using Firebase, GraphQL, and React, it tracks your wellbeing over the day based on the entries you put into it, and allows you to see where and when you are the most productive. Furthermore, you can use it as a record of your life if keeping up a diary is too difficult. In the future we will add additional functions.
 
 You can use this app for your own use! Just input your own firebase api key into the firebase.js file in the src/SubmitForm/Firebase folder. Make sure it has permissions for anyone to read and write.
 
